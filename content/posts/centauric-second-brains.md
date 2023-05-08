@@ -10,6 +10,7 @@ description = ""
 showFullContent = false
 hideComments = false
 color = "" #color from the theme settings
+draft = true
 +++
 
 We have AI that knows the world, but we need AI that knows the user.
